@@ -6,7 +6,7 @@ const app = express();
 
 //Definimos una ruta GET
 app.get('/', (req, res) => {
-    res.json({  message: 'Hola Mundo con GITHUB actions'})
+    res.json({  message: 'Hola Mundo con GITHUB2 actions'})
 });
 
 //iniciamos el servidor
