@@ -10,4 +10,4 @@
 #Exponer el puerto en el que la aplicacion correra
  EXPOSE 3000
 #iniciar la aplicacion
- CMD ["node", "server.js"]
+ CMD ["node", "index.js"]
